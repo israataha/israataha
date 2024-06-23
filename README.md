@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi 👋, I'm Israa
+### Developer | Speaker | Writer
+
+Fueled by constant curiosity and a passion for learning, I take a user-centric approach to problem solving, paying close attention to the details without losing sight of the big picture.
+
+I'm currently a Software Architect at Vibrant Credit Union leading the greenfield mobile development using React Native, .NET/C#, PostgreSQL and Azure.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,dotnet,cs,azure,postgres,jest,git,github,githubactions,vscode)](https://skillicons.dev)
 
 <!--
 **israataha/israataha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
