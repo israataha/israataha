@@ -1,7 +1,9 @@
 ## Hi 👋, I'm Israa
 ### Developer | Speaker | Writer
 
-Fueled by constant curiosity and a passion for learning, I take a user-centric approach to problem solving, paying close attention to the details without losing sight of the big picture.
+I'm a software engineer building mobile products with React Native and Expo - focused on quality, accessibility, architecture and the details the make software feel great. 
+
+When I'm not experimenting with AI, I'm baking, reading or building my digital bookshelf (a local-first personal library for all my physical, digital and audio books).
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,dotnet,cs,azure,postgres,jest,git,github,githubactions,vscode)](https://skillicons.dev)
 
