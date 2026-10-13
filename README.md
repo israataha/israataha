@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Israa
 ### Developer | Speaker | Writer
 
-I'm a software engineer building mobile products with React Native and Expo - focused on quality, accessibility, architecture and the details the make software feel great. 
+I'm a software engineer building mobile products with React Native and Expo - focused on quality, accessibility, architecture and the details that make software feel great. 
 
 When I'm not experimenting with AI, I'm baking, reading or building my digital bookshelf (a local-first personal library for all my physical, digital and audio books).
 
